@@ -1,0 +1,6 @@
+﻿dog
+book
+animal
+star
+swordsword
+dog
